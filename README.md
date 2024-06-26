@@ -1,0 +1,1 @@
+This project is a game that I am building withh my dad using beve. We plan to learn beve together as we both have to used it befor. The goal it to make a molt player first peroson zombie shooter that can run in the brouder with web asembaly. 
